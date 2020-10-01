@@ -60,6 +60,7 @@ A social media app for movies, games and tv series reviews
 
     ```
 7. Head to server http://localhost:8000
+#avik was here
 
 8. Add Few Movies, Games and Tv shows in their respective models to display them. Enjoy!
 
